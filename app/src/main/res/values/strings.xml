@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="town">Минск</string>
+    <string name="weather_now_degree">13°</string>
+    <string name="sunny_weather">sunny</string>
+    <string name="weather_now">Солнечно</string>
+    <string name="weather_now_feel">Ощущается как 12°</string>
 </resources>
