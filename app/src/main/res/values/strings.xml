@@ -9,4 +9,15 @@
     <string name="number_of_fallout">80%</string>
     <string name="wind_speed">Скорость ветра</string>
     <string name="number_wind_speed">3 м/с</string>
+    <string name="every_hour">Ежечасный</string>
+    <string name="hour_1">11:00</string>
+    <string name="hour_2">12:00</string>
+    <string name="hour_3">13:00</string>
+    <string name="hour_4">14:00</string>
+    <string name="hour_5">15:00</string>
+    <string name="hour_1_degree">11°</string>
+    <string name="hour_2_degree">12°</string>
+    <string name="hour_3_degree">13°</string>
+    <string name="hour_4_degree">14°</string>
+    <string name="hour_5_degree">15°</string>
 </resources>
