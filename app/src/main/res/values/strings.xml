@@ -5,4 +5,8 @@
     <string name="sunny_weather">sunny</string>
     <string name="weather_now">Солнечно</string>
     <string name="weather_now_feel">Ощущается как 12°</string>
+    <string name="fallout">Осадки</string>
+    <string name="number_of_fallout">80%</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="number_wind_speed">3 м/с</string>
 </resources>
