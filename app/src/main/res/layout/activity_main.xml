@@ -147,6 +147,7 @@
                 android:id="@+id/imageView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:contentDescription="@string/low_cloudy_weather"
                 app:srcCompat="@drawable/low_cloudy" />
 
             <TextView
@@ -178,6 +179,7 @@
                 android:id="@+id/imageView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:contentDescription="@string/cloudy_weather"
                 app:srcCompat="@drawable/cloudy" />
 
             <TextView
@@ -209,6 +211,7 @@
                 android:id="@+id/imageView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:contentDescription="@string/rainy_weather"
                 app:srcCompat="@drawable/rainy" />
 
             <TextView
@@ -240,6 +243,7 @@
                 android:id="@+id/imageView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:contentDescription="@string/storm_weather"
                 app:srcCompat="@drawable/storm" />
 
             <TextView
@@ -271,6 +275,7 @@
                 android:id="@+id/imageView7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:contentDescription="@string/snowfall_weather"
                 app:srcCompat="@drawable/snowfall" />
 
             <TextView
