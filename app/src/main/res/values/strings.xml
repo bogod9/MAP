@@ -26,4 +26,5 @@
     <string name="hour_3_degree">13°</string>
     <string name="hour_4_degree">14°</string>
     <string name="hour_5_degree">15°</string>
+    <string name="refresh">refresh</string>
 </resources>
